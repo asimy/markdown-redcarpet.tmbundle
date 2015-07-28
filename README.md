@@ -30,6 +30,9 @@ The following syntaxes will be highlighted inside the fenced block:
 - Shell (as shell, bash, sh)
 - Haml
 - R
+- C, C++
+- YAML
+
 
 
 **Bonus** [Install the **Scott Web Theme** from *Preferences → Bundles*](https://raw.github.com/streeter/markdown-redcarpet.tmbundle/master/theme-preview-scott.png) for a nice looking preview
