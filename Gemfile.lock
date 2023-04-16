@@ -1,11 +1,11 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     posix-spawn (0.3.6)
     pygments.rb (0.3.2)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    redcarpet (2.2.2)
+    redcarpet (3.5.1)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -13,4 +13,4 @@ PLATFORMS
 
 DEPENDENCIES
   pygments.rb
-  redcarpet
+  redcarpet (~> 3.5.1)
